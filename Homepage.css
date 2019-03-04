@@ -3,6 +3,10 @@ body {
 }
 
 
+.dropdown-item.hover, .dropdown-item:hover {
+    color: blue;
+    background-color: #2471A3;
+}
 
 /* #button{ */
 	/* width:50px; */
