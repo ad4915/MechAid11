@@ -4,7 +4,18 @@ body {
 
  .navbar {
   height: 7.8vh;
+  font-size:2.2vh
 }
+
+#imperial{
+height: 5.8vh
+}
+
+.dropdown-item.hover, .dropdown-item:hover {
+    color: blue;
+    background-color: #2471A3;
+}
+
 
 /* #button{ */
 	/* width:50px; */
@@ -294,7 +305,57 @@ section h7 {
   /* padding-top:2%; */
 }
 
+#members h2 {
+	/* font-size: 2.5vh; */
+ padding-top: 5vw
+ 
+}
 
+
+#members p {
+	font-size: 1.06vw;
+ /* padding-top: 1.7vw */
+}
+
+#left{
+	padding-left: 5vw
+	/* padding-right: 2vw */
+
+}
+
+
+#quotem{
+	/* padding-left: 2vw */
+	padding: 0 1.8vw
+}
+
+
+/* #middle{ */
+	/* margin-left: 8vw */
+	/* margin-right: 5vw */
+/* } */
+
+/* #quotem{ */
+	/* margin-left: 0.05vw */
+	/* margin-right: 0.05vw */
+/* } */
+
+#right{
+	padding-right: 5vw
+}
+
+#toenails{
+	margin-top: 3vw
+	/* padding-bottom: 4vw */
+}
+
+#logos h2{
+	padding-top: 5vw
+}
+
+#fontawe{
+	padding-top: 3vw
+}
 
 .carousel-caption {
    position: absolute;
@@ -328,6 +389,8 @@ h3{
 	
 }
 
+
+
 #wwo{
 text-align:justify}
 
@@ -340,7 +403,7 @@ text-align:justify}
 .thumbnail img {
   /* width: 100%; */
   /* height: 100%; */
-  height: 270px;
-  width: 270px;
-  margin-bottom: 10px;
+  height: 17.5vw;
+  width: 17.5 vw;
+  margin-bottom: 1vw ;
 }
