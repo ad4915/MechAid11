@@ -1,11 +1,9 @@
 body { 
-    padding-top: 56px; 
+    padding-top: 7.8vh; 
 }
 
-
-.dropdown-item.hover, .dropdown-item:hover {
-    color: blue;
-    background-color: #2471A3;
+ .navbar {
+  height: 7.8vh;
 }
 
 /* #button{ */
@@ -84,7 +82,7 @@ section h7 {
 
 .demo a {
   position: absolute;
-  bottom: -4px;
+  top: 92.5vh;
   left: 97%;
   z-index: 2;
   display: inline-block;
@@ -149,7 +147,7 @@ section h7 {
 
 .demo3 a {
   position: absolute;
-  bottom: -715px;
+  top: 192.5vh;
   left: 97%;
   z-index: 2;
   display: inline-block;
@@ -212,7 +210,7 @@ section h7 {
 
 .demo5 a {
   position: absolute;
-  bottom: -1535px;
+  top: 300vh;
   left: 97%;
   z-index: 2;
   display: inline-block;
@@ -236,6 +234,8 @@ section h7 {
 
 
 
+
+
 /* #cars2{ */
 /* color: black;  */
 /* text-align: left; */
@@ -246,6 +246,53 @@ section h7 {
 /* text-align: left; */
 /* } */
 
+
+
+#hopeful {
+  height: 17.2vh;
+ 
+}
+
+/* #hopeful h1 { */
+  /* position: relative; */
+  /* top: 57.8%; */
+  /* -webkit-transform: translateY(-57.8%); */
+  /* -ms-transform: translateY(-57.8%); */
+  /* transform: translateY(-57.8%); */
+/* } */
+
+#hopeful h1 {
+	font-size: 5.7vh;
+ padding-top: 2vh
+}
+
+#hopeful p {
+	font-size: 2.75vh;
+ /* position: relative; */
+  /* top: 50%; */
+  /* transform: translateY(40%); */
+}
+
+#about {
+  height: 107.8vh;
+  /* padding-top:6%; */
+}
+
+#about h2 {
+	/* font-size: 2.5vh; */
+ padding-top: 5vw
+}
+#about p {
+	font-size: 1.18vw;
+ padding-top: 1.7vw
+}
+
+
+
+#members {
+  height: 107.8vh;
+  /* padding-top:2%; */
+}
 
 
 
